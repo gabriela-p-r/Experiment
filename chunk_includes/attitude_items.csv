@@ -1,0 +1,1041 @@
+Group,Item,Condition,Sentence,SentenceBold,CriticalFiller,Question,QuestionSentence,TrueOrFalse,CorrectResponse
+1,1,ironic,"Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is inconsistent and the service at times breaks down.
+At halftime, Harry says to Richard:
+""I see that the internet connection is working.""
+They spend the rest of the evening watching and eating chips.","Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is inconsistent and the service at times breaks down.
+At halftime, Harry says to Richard:
+<u>""I see that the internet connection is working.""</u>
+They spend the rest of the evening watching and eating chips.",critical,YES,"In your opinion, are they hanging out together to watch a movie?",FALSE,N
+1,2,literal,"Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very exciting, so Clara says to Elisabeth:
+“That was a memorable experience.”
+After leaving the theater, they go get some ice cream.","Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very exciting, so Clara says to Elisabeth:
+<u>""That was a memorable experience.” </u>
+After leaving the theater, they go get some ice cream.",critical,YES,"In your opinion, did Clara and Elisabeth get ice cream after the film?",TRUE,Y
+1,3,ironic,"Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their take-off will be severely delayed.
+Charlie leans over and says to Bob:
+“One can always count on this airline’s punctuality.”
+Charlie and Bob check their phones.","Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their take-off will be severely delayed.
+Charlie leans over and says to Bob:
+<u>“One can always count on this airline’s punctuality.”</u>
+Charlie and Bob check their phones.",critical,NO,,,
+1,4,literal,"On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+They find the cafeteria right away; it is just around the corner.
+Patrick says:
+“We found the cafeteria quickly.”
+There are already a lot of people inside, and all the seats are taken.","On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+They find the cafeteria right away; it is just around the corner.
+Patrick says:
+<u> “We found the cafeteria quickly.” </u>
+There are already a lot of people inside, and all the seats are taken.",critical,YES,"In your opinion, is the cafeteria full of people?",TRUE,Y
+1,5,ironic,"Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+At the end of the day, neither of them has managed to catch a single fish.
+As they are leaving, Mike says to Tim:
+“This has certainly been a productive day.” 
+Mike and Tim return home as the sun begins to set.","Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+At the end of the day, neither of them has managed to catch a single fish.
+As they are leaving, Mike says to Tim:
+<u> “This has certainly been a productive day.” </u>
+Mike and Tim return home as the sun begins to set.",critical,NO,,,
+1,6,literal,"Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After playing two hours, neither one is winning.
+John then says to her:
+“Clearly, we are at exactly the same level.”
+Karen and John plan to play together again.","Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After playing two hours, neither one is winning.
+John then says to her:
+<u> “Clearly, we are at exactly the same level.” </u>
+Karen and John plan to play together again.",critical,NO,,,
+1,7,ironic,"Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter takes a long time to arrive and messes up their orders.
+When the waiter finally brings the bill, Henry says to Robert:
+“The service was particularly efficient.”
+They part ways after exploring the neighborhood.","Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter takes a long time to arrive and messes up their orders.
+When the waiter finally brings the bill, Henry says to Robert:
+<u> “The service was particularly efficient.” </u>
+They part ways after exploring the neighborhood.",critical,NO,,,
+1,8,literal,"Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels much better.
+Her roommate sees that she feels better and says to her:
+“I see that my tea has been effective.”
+That evening, they watch a movie together.","Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels much better.
+Her roommate sees that she feels better and says to her:
+<u> “I see that my tea has been effective.” </u>
+That evening, they watch a movie together.",critical,NO,,,
+1,9,ironic,"Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+Close to the house, the car abruptly breaks down, forcing them to pull over.
+Katie, staring at the car, says to Paul:
+“That’s what I call a reliable car.”
+At that moment, their friends call them to find out where they are.","Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+Close to the house, the car abruptly breaks down, forcing them to pull over.
+Katie, staring at the car, says to Paul:
+<u> “That’s what I call a reliable car.” </u>
+At that moment, their friends call them to find out where they are.",critical,NO,,,
+1,10,literal,"George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, the shirts look brand new.
+George says to Louis:
+“This washing machine does an impeccable job.”
+After hanging their laundry, they grab two beers from the fridge.","George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, the shirts look brand new.
+George says to Louis:
+<u> “This washing machine does an impeccable job.” </u>
+After hanging their laundry, they grab two beers from the fridge.",critical,NO,,,
+1,11,ironic,"Luke and Bruce decided to start a book club.
+They asked their friends from the university to join them.
+They set a date, and ten of their friends agreed to come.
+On the day of the meeting, no one showed up and no one called.
+Luke says to Bruce:
+“Book club discussions are engaging.”
+Bruce steps out and lights a cigarette.","Luke and Bruce decided to start a book club.
+They asked their friends from the university to join them.
+They set a date, and ten of their friends agreed to come.
+On the day of the meeting, no one showed up and no one called.
+Luke says to Bruce:
+<u> “Book club discussions are engaging.” </u>
+Bruce steps out and lights a cigarette.",critical,YES,"In your opinion, did they start a bowling club?",FALSE,N
+1,12,literal,"Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so light that Olivia carries it with one hand.
+She then says to Emma:
+“It's as though the box were empty.”
+Emma cooks dinner for friends to celebrate her new place that night.","Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so light that Olivia carries it with one hand.
+She then says to Emma:
+<u> “It's as though the box were empty.” </u>
+Emma cooks dinner for friends to celebrate her new place that night.",critical,NO,,,
+1,13,filler,"Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+Due to the intense heat of the day, they take a water break.","Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+<u> Due to the intense heat of the day, they take a water break. </u>",filler,NO,,,
+1,14,filler,"Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+The steak is not salted at all.
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.","Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+<u> The steak is not salted at all. </u>
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.",filler,YES,"In your opinion, did Martin order a vegetarian dish?",FALSE,N
+1,15,filler,"Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+Unfortunately, the friend discovers the secret a week before the party.
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.","Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+<u> Unfortunately, the friend discovers the secret a week before the party. </u>
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.",filler,YES,"In your opinion, did Rachel intend to organize a surprise party?",TRUE,Y
+1,16,filler,"Carol and Charlie go to school together.
+Their history teacher has given them a ton of assignments to do.
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.","Carol and Charlie go to school together.
+<u> Their history teacher has given them a ton of assignments to do. </u>
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.",filler,YES,"In your opinion, are they working on a presentation together?",TRUE,Y
+1,17,filler,"Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+The whole class feels tense about it.
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.","Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+<u> The whole class feels tense about it. </u>
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.",filler,YES,"In your opinion, are they in a sports course?",FALSE,N
+1,18,filler,"Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+Danny comes out of one dressing room clothed in a very extravagant way.
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.","Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+<u> Danny comes out of one dressing room clothed in a very extravagant way. </u>
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.",filler,NO,,,
+1,19,filler,"Grace and Thomas work on the same floor. 
+An important investor is coming to the office today.
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.","Grace and Thomas work on the same floor. 
+<u> An important investor is coming to the office today. </u>
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.",filler,NO,,,
+1,20,filler,"Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+The performance is completely sold out that night. 
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.","Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+<u> The performance is completely sold out that night. </u>
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.",filler,NO,,,
+2,1,literal,"Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is quite good, and the service runs smoothly.
+At halftime, Harry says to Richard:
+""I see that the internet connection is working.""
+They spend the rest of the evening watching and eating chips.","Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is quite good, and the service runs smoothly.
+At halftime, Harry says to Richard:
+<u>""I see that the internet connection is working.""</u>
+They spend the rest of the evening watching and eating chips.",critical,YES,"In your opinion, are they hanging out together to watch a movie?",FALSE,N
+2,2,ironic,"Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very boring, so Clara says to Elisabeth:
+“That was a memorable experience.”
+After leaving the theater, they go get some ice cream.","Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very boring, so Clara says to Elisabeth:
+<u> “That was a memorable experience.” </u>
+After leaving the theater, they go get some ice cream.",critical,YES,"In your opinion, did Clara and Elisabeth get ice cream after the film?",TRUE,Y
+2,3,literal,"Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their flight should take off on time.
+Charlie leans over and says to Bob:
+“One can always count on this airline’s punctuality.”
+Charlie and Bob check their phones.","Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their flight should take off on time.
+Charlie leans over and says to Bob:
+<u>“One can always count on this airline’s punctuality.”</u>
+Charlie and Bob check their phones.",critical,NO,,,
+2,4,ironic,"On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+After a very long search, they finally arrive there.
+Patrick says:
+“We found the cafeteria quickly.”
+There are already a lot of people inside, and all the seats are taken.","On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+After a very long search, they finally arrive there.
+Patrick says:
+<u> “We found the cafeteria quickly.” </u>
+There are already a lot of people inside, and all the seats are taken.",critical,YES,"In your opinion, is the cafeteria full of people?",TRUE,Y
+2,5,literal,"Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+Today, the two fishermen have completely filled their buckets with fish.
+As they are leaving, Mike says to Tim:
+“This has certainly been a productive day.”
+Mike and Tim return home as the sun begins to set.","Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+Today, the two fishermen have completely filled their buckets with fish.
+As they are leaving, Mike says to Tim:
+<u> “This has certainly been a productive day.” </u>
+Mike and Tim return home as the sun begins to set.",critical,NO,,,
+2,6,ironic,"Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After only six moves, Karen manages to beat John.
+John then says to her:
+“Clearly, we are at exactly the same level.”
+Karen and John plan to play together again.","Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After only six moves, Karen manages to beat John.
+John then says to her:
+<u> “Clearly, we are at exactly the same level.” </u>
+Karen and John plan to play together again.",critical,NO,,,
+2,7,literal,"Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter serves them professionally and remains attentive throughout the evening.
+When the waiter finally brings the bill, Henry says to Robert:
+“The service was particularly efficient.”
+They part ways after exploring the neighborhood.","Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter serves them professionally and remains attentive throughout the evening.
+When the waiter finally brings the bill, Henry says to Robert:
+<u> “The service was particularly efficient.” </u>
+They part ways after exploring the neighborhood.",critical,NO,,,
+2,8,ironic,"Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels worse and starts vomiting.
+Her roommate sees that Jasmine is now even sicker and says:
+“I see that my tea has been effective.”
+That evening, they watch a movie together.","Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels worse and starts vomiting.
+Her roommate sees that Jasmine is now even sicker and says:
+<u> “I see that my tea has been effective.” </u>
+That evening, they watch a movie together.",critical,NO,,,
+2,9,literal,"Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+As they get close to the house, they pull over to fill up the tank with gas.
+Katie, staring at the car, says to Paul:
+“That’s what I call a reliable car.”
+At that moment, their friends call them to find out where they are.","Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+As they get close to the house, they pull over to fill up the tank with gas.
+Katie, staring at the car, says to Paul:
+<u> “That’s what I call a reliable car.” </u>
+At that moment, their friends call them to find out where they are.",critical,NO,,,
+2,10,ironic,"George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, they see that the shirts are still stained.
+George says to Louis:
+“This washing machine does an impeccable job.”
+After hanging their laundry, they grab two beers from the fridge.","George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, they see that the shirts are still stained.
+George says to Louis:
+<u> “This washing machine does an impeccable job.” </u>
+After hanging their laundry, they grab two beers from the fridge.",critical,NO,,,
+2,11,literal,"Luke and Alfred are considering starting a book club.
+After discussing how much time to devote to the club, they decide to do it.
+They then asked some friends to join them.
+A few weeks later, everyone is reading and discussing the books.
+This leads Luke to say to Alfred:
+“That's what I call a good use of our time.”
+Alfred looks at the list of books they have compiled.","Luke and Alfred are considering starting a book club.
+After discussing how much time to devote to the club, they decide to do it.
+They then asked some friends to join them.
+A few weeks later, everyone is reading and discussing the books.
+This leads Luke to say to Alfred:
+<u> “That's what I call a good use of our time.” </u>
+Alfred looks at the list of books they have compiled.",critical,YES,"In your opinion, did they start a bowling club?",FALSE,N
+2,12,ironic,"Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so heavy that Olivia can hardly keep her balance.
+She then says to Emma:
+“It's as though the box were empty.”
+Emma cooks dinner for friends to celebrate her new place that night.","Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so heavy that Olivia can hardly keep her balance.
+She then says to Emma:
+<u> “It's as though the box were empty.” </u>
+Emma cooks dinner for friends to celebrate her new place that night.",critical,NO,,,
+2,13,filler,"Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+Due to the intense heat of the day, they take a water break.","Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+<u> Due to the intense heat of the day, they take a water break. </u>",filler,NO,,,
+2,14,filler,"Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+The steak is not salted at all.
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.","Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+<u> The steak is not salted at all. </u>
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.",filler,YES,"In your opinion, did Martin order a vegetarian dish?",FALSE,N
+2,15,filler,"Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+Unfortunately, the friend discovers the secret a week before the party.
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.","Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+<u> Unfortunately, the friend discovers the secret a week before the party. </u>
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.",filler,YES,"In your opinion, did Rachel intend to organize a surprise party?",TRUE,Y
+2,16,filler,"Carol and Charlie go to school together.
+Their history teacher has given them a ton of assignments to do.
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.","Carol and Charlie go to school together.
+<u> Their history teacher has given them a ton of assignments to do. </u>
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.",filler,YES,"In your opinion, are they working on a presentation together?",TRUE,Y
+2,17,filler,"Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+The whole class feels tense about it.
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.","Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+<u> The whole class feels tense about it. </u>
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.",filler,YES,"In your opinion, are they in a sports course?",FALSE,N
+2,18,filler,"Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+Danny comes out of one dressing room clothed in a very extravagant way.
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.","Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+<u> Danny comes out of one dressing room clothed in a very extravagant way. </u>
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.",filler,NO,,,
+2,19,filler,"Grace and Thomas work on the same floor. 
+An important investor is coming to the office today.
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.","Grace and Thomas work on the same floor. 
+<u> An important investor is coming to the office today. </u>
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.",filler,NO,,,
+2,20,filler,"Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+The performance is completely sold out that night. 
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.","Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+<u> The performance is completely sold out that night. </u>
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.",filler,NO,,,
+3,1,ironic,"Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is inconsistent and the service at times breaks down.
+At halftime, Harry says to Richard:
+""I see that the internet connection is working.""
+They spend the rest of the evening watching and eating chips.","Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is inconsistent and the service at times breaks down.
+At halftime, Harry says to Richard:
+<u>""I see that the internet connection is working.""</u>
+They spend the rest of the evening watching and eating chips.",critical,YES,"In your opinion, are they hanging out together to watch a movie?",FALSE,N
+3,2,ironic,"Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very boring, so Clara says to Elisabeth:
+“That was a memorable experience.”
+After leaving the theater, they go get some ice cream.","Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very boring, so Clara says to Elisabeth:
+<u> “That was a memorable experience.” </u>
+After leaving the theater, they go get some ice cream.",critical,YES,"In your opinion, did Clara and Elisabeth get ice cream after the film?",TRUE,Y
+3,3,literal,"Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their flight should take off on time.
+Charlie leans over and says to Bob:
+“One can always count on this airline’s punctuality.”
+Charlie and Bob check their phones.","Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their flight should take off on time.
+Charlie leans over and says to Bob:
+<u>“One can always count on this airline’s punctuality.”</u>
+Charlie and Bob check their phones.",critical,NO,,,
+3,4,literal,"On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+They find the cafeteria right away; it is just around the corner.
+Patrick says:
+“We found the cafeteria quickly.”
+There are already a lot of people inside, and all the seats are taken.","On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+They find the cafeteria right away; it is just around the corner.
+Patrick says:
+<u> “We found the cafeteria quickly.” </u>
+There are already a lot of people inside, and all the seats are taken.",critical,YES,"In your opinion, is the cafeteria full of people?",TRUE,Y
+3,5,ironic,"Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+At the end of the day, neither of them has managed to catch a single fish.
+As they are leaving, Mike says to Tim:
+“This has certainly been a productive day.” 
+Mike and Tim return home as the sun begins to set.","Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+At the end of the day, neither of them has managed to catch a single fish.
+As they are leaving, Mike says to Tim:
+<u> “This has certainly been a productive day.” </u>
+Mike and Tim return home as the sun begins to set.",critical,NO,,,
+3,6,ironic,"Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After only six moves, Karen manages to beat John.
+John then says to her:
+“Clearly, we are at exactly the same level.”
+Karen and John plan to play together again.","Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After only six moves, Karen manages to beat John.
+John then says to her:
+<u> “Clearly, we are at exactly the same level.” </u>
+Karen and John plan to play together again.",critical,NO,,,
+3,7,literal,"Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter serves them professionally and remains attentive throughout the evening.
+When the waiter finally brings the bill, Henry says to Robert:
+“The service was particularly efficient.”
+They part ways after exploring the neighborhood.","Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter serves them professionally and remains attentive throughout the evening.
+When the waiter finally brings the bill, Henry says to Robert:
+<u> “The service was particularly efficient.” </u>
+They part ways after exploring the neighborhood.",critical,NO,,,
+3,8,literal,"Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels much better.
+Her roommate sees that she feels better and says to her:
+“I see that my tea has been effective.”
+That evening, they watch a movie together.","Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels much better.
+Her roommate sees that she feels better and says to her:
+<u> “I see that my tea has been effective.” </u>
+That evening, they watch a movie together.",critical,NO,,,
+3,9,ironic,"Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+Close to the house, the car abruptly breaks down, forcing them to pull over.
+Katie, staring at the car, says to Paul:
+“That’s what I call a reliable car.”
+At that moment, their friends call them to find out where they are.","Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+Close to the house, the car abruptly breaks down, forcing them to pull over.
+Katie, staring at the car, says to Paul:
+<u> “That’s what I call a reliable car.” </u>
+At that moment, their friends call them to find out where they are.",critical,NO,,,
+3,10,ironic,"George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, they see that the shirts are still stained.
+George says to Louis:
+“This washing machine does an impeccable job.”
+After hanging their laundry, they grab two beers from the fridge.","George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, they see that the shirts are still stained.
+George says to Louis:
+<u> “This washing machine does an impeccable job.” </u>
+After hanging their laundry, they grab two beers from the fridge.",critical,NO,,,
+3,11,literal,"Luke and Bruce decided to start a book club.
+They asked their friends from the university to join them.
+They set a date, and ten of their friends agreed to come.
+On the day of the meeting, everyone showed up, and they had a great time.
+Luke says to Bruce:
+“Book club discussions are engaging.”
+Bruce steps out and lights a cigarette.","Luke and Bruce decided to start a book club.
+They asked their friends from the university to join them.
+They set a date, and ten of their friends agreed to come.
+On the day of the meeting, everyone showed up, and they had a great time.
+Luke says to Bruce:
+<u> “Book club discussions are engaging.” </u>
+Bruce steps out and lights a cigarette.",critical,YES,"In your opinion, did they start a bowling club?",FALSE,N
+3,12,literal,"Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so light that Olivia carries it with one hand.
+She then says to Emma:
+“It's as though the box were empty.”
+Emma cooks dinner for friends to celebrate her new place that night.","Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so light that Olivia carries it with one hand.
+She then says to Emma:
+<u> “It's as though the box were empty.” </u>
+Emma cooks dinner for friends to celebrate her new place that night.",critical,NO,,,
+3,13,filler,"Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+Due to the intense heat of the day, they take a water break.","Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+<u> Due to the intense heat of the day, they take a water break. </u>",filler,NO,,,
+3,14,filler,"Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+The steak is not salted at all.
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.","Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+<u> The steak is not salted at all. </u>
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.",filler,YES,"In your opinion, did Martin order a vegetarian dish?",FALSE,N
+3,15,filler,"Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+Unfortunately, the friend discovers the secret a week before the party.
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.","Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+<u> Unfortunately, the friend discovers the secret a week before the party. </u>
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.",filler,YES,"In your opinion, did Rachel intend to organize a surprise party?",TRUE,Y
+3,16,filler,"Carol and Charlie go to school together.
+Their history teacher has given them a ton of assignments to do.
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.","Carol and Charlie go to school together.
+<u> Their history teacher has given them a ton of assignments to do. </u>
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.",filler,YES,"In your opinion, are they working on a presentation together?",TRUE,Y
+3,17,filler,"Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+The whole class feels tense about it.
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.","Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+<u> The whole class feels tense about it. </u>
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.",filler,YES,"In your opinion, are they in a sports course?",FALSE,N
+3,18,filler,"Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+Danny comes out of one dressing room clothed in a very extravagant way.
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.","Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+<u> Danny comes out of one dressing room clothed in a very extravagant way. </u>
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.",filler,NO,,,
+3,19,filler,"Grace and Thomas work on the same floor. 
+An important investor is coming to the office today.
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.","Grace and Thomas work on the same floor. 
+<u> An important investor is coming to the office today. </u>
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.",filler,NO,,,
+3,20,filler,"Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+The performance is completely sold out that night. 
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.","Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+<u> The performance is completely sold out that night. </u>
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.",filler,NO,,,
+4,1,literal,"Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is quite good, and the service runs smoothly.
+At halftime, Harry says to Richard:
+""I see that the internet connection is working.""
+They spend the rest of the evening watching and eating chips.","Richard invites his friend Harry to watch a basketball game tonight.
+Harry agrees and prepares some snacks for them.
+They settle in and set up the newly updated streaming service to watch it.
+The video quality is quite good, and the service runs smoothly.
+At halftime, Harry says to Richard:
+<u>""I see that the internet connection is working.""</u>
+They spend the rest of the evening watching and eating chips.",critical,YES,"In your opinion, are they hanging out together to watch a movie?",FALSE,N
+4,2,literal,"Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very exciting, so Clara says to Elisabeth:
+“That was a memorable experience.”
+After leaving the theater, they go get some ice cream.","Clara and Elizabeth are at the cinema deciding what film to see.
+They see a cool movie poster near the snack bar.
+They aren't familiar with it, but they decide to go see it.
+The two friends buy tickets and popcorn.
+The film turns out to be very exciting, so Clara says to Elisabeth:
+<u> “That was a memorable experience.” </u>
+After leaving the theater, they go get some ice cream.",critical,YES,"In your opinion, did Clara and Elisabeth get ice cream after the film?",TRUE,Y
+4,3,ironic,"Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their take-off will be severely delayed.
+Charlie leans over and says to Bob:
+“One can always count on this airline’s punctuality.”
+Charlie and Bob check their phones.","Charlie and Bob went to the same business meeting in Chicago.
+They are now boarding their flight back home to New York.
+As they get settled into their seats, they continue to talk about their work.
+Just then, the pilot announces that their take-off will be severely delayed.
+Charlie leans over and says to Bob:
+<u>“One can always count on this airline’s punctuality.”</u>
+Charlie and Bob check their phones.",critical,NO,,,
+4,4,ironic,"On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+After a very long search, they finally arrive there.
+Patrick says:
+“We found the cafeteria quickly.”
+There are already a lot of people inside, and all the seats are taken.","On his way out from a conference, Tom runs into his colleague Patrick.
+Patrick asks Tom where the cafeteria is.
+While not being sure, Tom suggests that they look for it together.
+After a very long search, they finally arrive there.
+Patrick says:
+<u> “We found the cafeteria quickly.” </u>
+There are already a lot of people inside, and all the seats are taken.",critical,YES,"In your opinion, is the cafeteria full of people?",TRUE,Y
+4,5,literal,"Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+Today, the two fishermen have completely filled their buckets with fish.
+As they are leaving, Mike says to Tim:
+“This has certainly been a productive day.”
+Mike and Tim return home as the sun begins to set.","Mike and Tim go fishing together once a year at their favorite lake.
+As usual, they chat while waiting for the fish to bite.
+They talk mostly about their fishing adventures.
+Today, the two fishermen have completely filled their buckets with fish.
+As they are leaving, Mike says to Tim:
+<u> “This has certainly been a productive day.” </u>
+Mike and Tim return home as the sun begins to set.",critical,NO,,,
+4,6,literal,"Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After playing two hours, neither one is winning.
+John then says to her:
+“Clearly, we are at exactly the same level.”
+Karen and John plan to play together again.","Karen and John are playing chess in a park.
+They have just started their game.
+Each comes up with their own strategy.
+After playing two hours, neither one is winning.
+John then says to her:
+<u> “Clearly, we are at exactly the same level.” </u>
+Karen and John plan to play together again.",critical,NO,,,
+4,7,ironic,"Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter takes a long time to arrive and messes up their orders.
+When the waiter finally brings the bill, Henry says to Robert:
+“The service was particularly efficient.”
+They part ways after exploring the neighborhood.","Henry and Robert are food critics evaluating the same new restaurant.
+Old friends, they sit at a table together, waiting for service.
+Meanwhile, they discuss their jobs.
+The waiter takes a long time to arrive and messes up their orders.
+When the waiter finally brings the bill, Henry says to Robert:
+<u> “The service was particularly efficient.” </u>
+They part ways after exploring the neighborhood.",critical,NO,,,
+4,8,ironic,"Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels worse and starts vomiting.
+Her roommate sees that Jasmine is now even sicker and says:
+“I see that my tea has been effective.”
+That evening, they watch a movie together.","Jasmine is ill and must stay in bed and rest all day.
+She asks her roommate to prepare herbal tea for her.
+Her roommate makes her the tea.
+Shortly after drinking it, Jasmine feels worse and starts vomiting.
+Her roommate sees that Jasmine is now even sicker and says:
+<u> “I see that my tea has been effective.” </u>
+That evening, they watch a movie together.",critical,NO,,,
+4,9,literal,"Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+As they get close to the house, they pull over to fill up the tank with gas.
+Katie, staring at the car, says to Paul:
+“That’s what I call a reliable car.”
+At that moment, their friends call them to find out where they are.","Paul and Katie are leaving for a trip to the countryside in an old car.
+Their friends are waiting for them to arrive for dinner that evening.
+On the way, they discuss their upcoming evening with excitement.
+As they get close to the house, they pull over to fill up the tank with gas.
+Katie, staring at the car, says to Paul:
+<u> “That’s what I call a reliable car.” </u>
+At that moment, their friends call them to find out where they are.",critical,NO,,,
+4,10,literal,"George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, the shirts look brand new.
+George says to Louis:
+“This washing machine does an impeccable job.”
+After hanging their laundry, they grab two beers from the fridge.","George is doing the laundry with his roommate Louis.
+Louis points out that they have some muddy shirts to wash.
+They spend some time discussing the washing machine's program.
+Later, when they hang up the laundry, the shirts look brand new.
+George says to Louis:
+<u> “This washing machine does an impeccable job.” </u>
+After hanging their laundry, they grab two beers from the fridge.",critical,NO,,,
+4,11,ironic,"Luke and Bruce decided to start a book club.
+They asked their friends from the university to join them.
+They set a date, and ten of their friends agreed to come.
+On the day of the meeting, no one showed up and no one called.
+Luke says to Bruce:
+“Book club discussions are engaging.”
+Bruce steps out and lights a cigarette.","Luke and Bruce decided to start a book club.
+They asked their friends from the university to join them.
+They set a date, and ten of their friends agreed to come.
+On the day of the meeting, no one showed up and no one called.
+Luke says to Bruce:
+<u> “Book club discussions are engaging.” </u>
+Bruce steps out and lights a cigarette.",critical,YES,"In your opinion, did they start a bowling club?",FALSE,N
+4,12,ironic,"Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so heavy that Olivia can hardly keep her balance.
+She then says to Emma:
+“It's as though the box were empty.”
+Emma cooks dinner for friends to celebrate her new place that night.","Olivia is helping her friend Emma move into a new place.
+They're moving a lot of boxes inside. 
+At a certain point, Olivia walks by with a large cardboard box.
+The box is so heavy that Olivia can hardly keep her balance.
+She then says to Emma:
+<u> “It's as though the box were empty.” </u>
+Emma cooks dinner for friends to celebrate her new place that night.",critical,NO,,,
+4,13,filler,"Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+Due to the intense heat of the day, they take a water break.","Oliver and Jason are members of a tennis club. 
+They are participating in the same training session.
+This session focuses on serving and receiving. 
+Oliver starts serving.
+Jason tells him:
+""The coach said we should also practice our footwork.""
+<u> Due to the intense heat of the day, they take a water break. </u>",filler,NO,,,
+4,14,filler,"Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+The steak is not salted at all.
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.","Martin goes to eat at his usual restaurant.
+He orders a steak.
+Shortly after he orders, the waiter brings him his dish.
+<u> The steak is not salted at all. </u>
+When the server returns, Martin says:
+“Could you bring me the salt?”
+After the main course, he orders a delicious dessert.",filler,YES,"In your opinion, did Martin order a vegetarian dish?",FALSE,N
+4,15,filler,"Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+Unfortunately, the friend discovers the secret a week before the party.
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.","Rachel organizes a surprise party for a friend's birthday.
+She asks Timmy to help her.
+Timmy agrees.
+<u> Unfortunately, the friend discovers the secret a week before the party. </u>
+Rachel says to Timmy:
+“The surprise is completely ruined.”
+Nonetheless, the party was a success.",filler,YES,"In your opinion, did Rachel intend to organize a surprise party?",TRUE,Y
+4,16,filler,"Carol and Charlie go to school together.
+Their history teacher has given them a ton of assignments to do.
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.","Carol and Charlie go to school together.
+<u> Their history teacher has given them a ton of assignments to do. </u>
+One of the assignments is a presentation.
+Carol does not remember when they will have to present it.
+Charlie looks at his planner and says to her: 
+""We present next Friday.""
+They start talking about their workload.",filler,YES,"In your opinion, are they working on a presentation together?",TRUE,Y
+4,17,filler,"Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+The whole class feels tense about it.
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.","Henry and Rose are taking a Spanish class.
+The professor is going to test them on pronunciation. 
+<u> The whole class feels tense about it. </u>
+Henry reviews his notes from previous lessons.
+Rose turns to him and says:
+""I don't like practical exams.""
+After the exam, they have lunch together.",filler,YES,"In your opinion, are they in a sports course?",FALSE,N
+4,18,filler,"Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+Danny comes out of one dressing room clothed in a very extravagant way.
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.","Danny and Myriam go shopping for clothes on sale.
+Danny doesn't have a very clear idea of what he wants to buy.
+Myriam suggests that he try different stores.
+<u> Danny comes out of one dressing room clothed in a very extravagant way. </u>
+Seeing himself in the mirror, he says to Myriam:
+“I don't like these clothes.”
+They decide to move on to the next store.",filler,NO,,,
+4,19,filler,"Grace and Thomas work on the same floor. 
+An important investor is coming to the office today.
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.","Grace and Thomas work on the same floor. 
+<u> An important investor is coming to the office today. </u>
+Thomas is tasked with organizing the conference room. 
+He asks Grace to assist him.
+She sets up the projector and sound system and tells him:
+""We've got everything ready for the meeting.""
+The investor arrives some time later.",filler,NO,,,
+4,20,filler,"Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+The performance is completely sold out that night. 
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.","Cynthia and Leah sing together in the opera. 
+On the night of the premiere, they meet at the theatre. 
+<u> The performance is completely sold out that night. </u>
+A stage manager checks with them about their costume changes.
+They warm up their voices backstage and Cynthia says:
+""We should go over the final song one more time."" 
+The show begins exactly on time.",filler,NO,,,
